@@ -1,0 +1,33 @@
+* {
+    margin: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: gold;
+    }
+
+h1 {
+    background-color: blue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+   }
+
+p {
+    font-style: italic;
+    color: black;
+  }
+
+ol {
+    font-style: italic;
+    color: black;
+   }
+
+ul {
+    font-style: italic;
+    color: black;
+   }
+
+dl {
+    font-style: italic;
+    color: black;
+   }
